@@ -18,7 +18,7 @@ Example item: https://www.wikidata.org/wiki/Q101497 (Aldehydes)
 
 ## What does the stuff use ?
 
-NOTE: This script uses the SMARTS.plus API (https://smarts.plus/) to generate SVG images of SMARTS/SMIRKS notations.
+This script uses the SMARTS.plus API (https://smarts.plus/) to generate SVG images of SMARTS/SMIRKS notations.
 
 Script is versionned at https://github.com/commons-research/reaction-viewer-gadget/
 
@@ -34,4 +34,9 @@ Add the following line
 importScript( 'User:GrndStt/reaction-viewer.js' );
 ```
 
+Note: After publishing, you may have to bypass your browser's cache to see the changes.
+
+- Firefox / Safari: Hold Shift while clicking Reload, or press either Ctrl-F5 or Ctrl-R (⌘-R on a Mac)
+- Google Chrome: Press Ctrl-Shift-R (⌘-Shift-R on a Mac)
+- Edge: Hold Ctrl while clicking Refresh, or press Ctrl-F5.
 

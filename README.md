@@ -17,7 +17,7 @@ Inspired by Magnus's SMILES gadget: https://www.wikidata.org/wiki/User:Magnus_Ma
 
 ## How do I install the stuff ?
 
-To add this gadget, navigate to your commons.js User subpage (https://www.wikidata.org/wiki/<YourWikiUserName>/common.js)
+To add this gadget, navigate to your commons.js User subpage (`https://www.wikidata.org/wiki/<YourWikiUserName>/common.js`)
 
 Add the following line
 

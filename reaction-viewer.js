@@ -20,7 +20,7 @@ function renderSMIRKS(prop) {
         let smirks_string = $(element).find('div.wikibase-snakview-value').eq(0).text();
         let smirks_url = 'https://smarts.plus/smartsview/download_rest?smarts=' 
                          + encodeURIComponent(smirks_string) 
-                         + ';filetype=png;vmode=0;textdesc=0;depsymbols=0;smartsheading=0';
+                         + ';filetype=svg;vmode=0;textdesc=0;depsymbols=0;smartsheading=0';
         
         let html = '<div style="width: 100%; height: 300px; display: flex; justify-content: center; align-items: center;">'
                  + '<img class="smirks_image" id="'+id+'" src="'+smirks_url+'" style="width: 100%; height: auto; object-fit: contain; clip-path: inset(40% 0 40% 0);">'

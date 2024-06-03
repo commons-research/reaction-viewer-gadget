@@ -2,7 +2,7 @@
 
 ## What does the stuff do ?
 
-This gadget displays SMARTS/SMIRKS renderings for chemical reactions, for example where the item contains statements for [P12491](https://www.wikidata.org/wiki/Property:P12491).
+This gadget displays SMARTS/SMIRKS renderings for chemical reactions or patterns on Wikidata. In other words it renders an image for item contains statements for [P12491](https://www.wikidata.org/wiki/Property:P12491) or [P8533](https://www.wikidata.org/wiki/Property:P8533).
 
 ### Render a SMIRKS reaction 
 
